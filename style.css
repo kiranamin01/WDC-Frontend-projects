@@ -1,0 +1,133 @@
+
+*{ 
+    margin:0; 
+ padding:0;
+ box-sizing:border-box;
+ font-family: "Poppins", sans-serif;
+  font-weight: 300;
+
+} 
+html,body 
+{
+ height:100%;
+ width:100%;
+}
+
+#main {
+    width: 100%;
+    height: 100%;
+    background-color: #FFFDFF;
+}
+
+nav {
+    width: 100%;
+    height: 70px;
+    background-color: #FFFDFF;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 40px;
+}
+
+#nav_1 {
+    display: flex;
+}
+
+#nav_1_menu {
+    border: 1.5px solid black;
+    padding: 5px 12px;
+    border-radius: 20px;
+    margin: 5px;
+}
+
+#nav_1_icon {
+    border: 1.5px solid black;
+    padding: 5px 10px;
+    border-radius: 90px;
+    margin: 5px;
+}
+
+
+#nav_3 > button {
+    border: 1px solid black;
+    padding: 5px 20px;
+    border-radius: 90px;
+}
+
+#nav_3_btn1 {
+    
+    font-weight: 400;
+    font-size: 15px;
+}
+
+#nav_3_btn2 {
+    background-color: #f64f2e;
+    color: #FFFDFF;
+    font-weight: 400;
+    font-size: 18px;
+}
+#nav_3 :hover {
+    background-color: #c92f10;
+    color: #FFFDFF;
+}
+
+#hero{
+    width: 100%;
+    height: 920px;
+    position: absolute;
+}
+#hero_bg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 800px;
+}
+
+#hero_bg > h1 {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    font-size: 170px;
+}
+
+#hero_bg_img{
+    width: 300px;
+    height: 400px;
+    position: absolute;
+    top: 25%;
+    left: 40%;
+
+}
+
+#hero_bg_img > img {
+    width: 350px;
+    height: 450px;
+    border-radius: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    object-fit:cover; 
+    /* object-position:top; */
+}
+
+#hero_img0{
+    transform: translate(-50%,-50%)rotate(0deg); 
+}
+
+#hero_img1 {
+    transform: translate(-50%,-50%) rotate(25deg);
+}
+#hero_img2 {
+    transform: translate(-50%,-50%) rotate(20deg);
+}
+#hero_img3 {
+    transform: translate(-50%,-50%) rotate(10deg);
+}
+
+#hero_down {
+    /* background-color: red; */
+    margin: 50px;
+}

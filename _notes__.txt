@@ -1,0 +1,22 @@
+Web Development Course | Frontend | Level 1
+
+• Understanding HTML 28:56 / 3:38:53 
+ - h1-h6 ( headings ) , p (paragraph) , b (bold) , i (italic)  , <sup> = square root / <sub> = down , <ol> = order list / <ul> = under list ,
+ - <img src="" alt="name"> , <br> = break line 
+ - <a href=""> Link Name </a>
+ - form atributes - <form > <input> </form > - <input type=(text,email,password,date,checkbox,radio,range,color,file,submit)>
+ - DIV - id , class, 
+
+
+• Cascading Style Sheets (CSS)
+ - Link html - <link href='style.css'>
+ -  *{ margin:0 padding:0 box-sizzing:border-box , } html,body { height:100% ,width:100%}
+ - position: absolute , transform : translate (-50%,-50%)
+ - display: flex ( - transform box into row/col )
+ - align-item : center 
+ - justify-content : space-between
+
+ • Project - 1:42:25 - 2:11:30 - DONE 
+ - REMIX ICONS 
+ - object-fit:cover; object-position:top; 
+ - rotate : 10deg ; 
