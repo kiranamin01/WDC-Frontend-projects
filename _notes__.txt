@@ -20,3 +20,21 @@ Web Development Course | Frontend | Level 1
  - REMIX ICONS 
  - object-fit:cover; object-position:top; 
  - rotate : 10deg ; 
+
+ • Project 2 - DONE - Learned About basics Layout 
+
+-----------------------------------------------------------------
+
+Web Development Course | Frontend | Level 2
+
+• Project 1 
+- learn build search logic functionality 
+
+• Project 2 - CART 
+ - Show Real Products (obj list ), Show Real Popular product (obj list ), click product to add in CART , pop up ,
+   cart section with added product
+
+• Project 3 - Music Player 
+ - Simple Music Player by JS - play-pause-forward 
+
+-----------------------------------------------------------------------
